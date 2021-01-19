@@ -6,16 +6,17 @@ Awesome List full of Game Company and Engine GitHub Repos
 
 
 
-# Game Engines (Commercial)
+# Game Engines
+### Commercial Game Engines
 - https://github.com/epicgames/ - Epic Games 
 - https://github.com/Unity-Technologies Unity 
 - https://github.com/CRYTEK - Crytek
 - https://github.com/aws/lumberyard - Lumberyard
 
-# Game Engines (Foundation)
+### Foundations / Mixed License
 - https://github.com/defold - 2d game engine (mixed license)
 
-# Game Engines (Free)
+### Open Source Game Engines (_Free_)
 - https://github.com/cocos2d - 2d game engine (open source)
 - https://github.com/godotengine - 3d game engine (open source)
 
