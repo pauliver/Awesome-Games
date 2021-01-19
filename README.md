@@ -21,6 +21,13 @@ Awesome List full of Game Company and Engine GitHub Repos
 - https://github.com/cocos2d - 2d game engine (open source)
 - https://github.com/godotengine - 3d game engine (open source)
 
+# Platforms
+- https://github.com/sony
+- https://github.com/Nintendo
+- https://github.com/microsoft
+- https://github.com/facebook (Oculus)
+- https://github.com/magicleap
+
 # Game Middleware
 - https://github.com/spatialos
 - https://github.com/PlayFab 
@@ -32,3 +39,5 @@ Awesome List full of Game Company and Engine GitHub Repos
 
 
 # Archive
+
+- https://github.com/videogamepreservation
