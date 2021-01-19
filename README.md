@@ -20,6 +20,7 @@ Awesome List full of Game Company and Engine GitHub Repos
 ### Open Source Game Engines (_Free_)
 - https://github.com/cocos2d - 2d game engine (open source)
 - https://github.com/godotengine - 3d game engine (open source)
+- https://github.com/GarageGames - torque collection of game engines
 
 # Platforms
 - https://github.com/sony
@@ -33,11 +34,21 @@ Awesome List full of Game Company and Engine GitHub Repos
 - https://github.com/PlayFab 
 
 # Game Companies
+- https://github.com/blizzard
 - https://github.com/electronicarts
-- https://github.com/ubisoft 
 - https://github.com/EmbarkStudios
-
+- https://github.com/ubisoft 
+- https://github.com/riotgames
+- https://github.com/valvesoftware
+- https://github.com/zynga
 
 # Archive
 
 - https://github.com/videogamepreservation
+
+# Other Lists
+- https://github.com/mbrukman/awesome-game-dev
+- https://github.com/Caerind/AwesomeCppGameDev
+- https://github.com/collections/game-engines 
+- https://github.com/leereilly/games
+- https://gist.github.com/roachhd/d579b58148d7e36a6b72
