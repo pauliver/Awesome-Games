@@ -35,8 +35,11 @@ Awesome List full of Game Company and Engine GitHub Repos
 
 # Game Companies
 - https://github.com/blizzard
+- https://github.com/ccpgames
+- https://github.com/dena
 - https://github.com/electronicarts
 - https://github.com/EmbarkStudios
+- https://github.com/gree
 - https://github.com/ubisoft 
 - https://github.com/riotgames
 - https://github.com/valvesoftware
