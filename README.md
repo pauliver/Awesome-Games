@@ -13,8 +13,9 @@ Awesome List full of Game Company and Engine GitHub Repos
 - https://github.com/CRYTEK - Crytek
 - https://github.com/aws/lumberyard - Lumberyard
 
-### Foundations / Mixed License
+### Mixed License
 - https://github.com/defold - 2d game engine (mixed license)
+- https://github.com/id-Software - ID Games
 
 ### Open Source Game Engines (_Free_)
 - https://github.com/cocos2d - 2d game engine (open source)
