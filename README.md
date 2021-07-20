@@ -21,6 +21,7 @@ Awesome List full of Game Company and Engine GitHub Repos
 - https://github.com/cocos2d - 2d game engine (open source)
 - https://github.com/godotengine - 3d game engine (open source)
 - https://github.com/GarageGames - torque collection of game engines
+- https://github.com/o3de/o3de - Open 3D Engine (open source)
 
 # Platforms
 - https://github.com/sony
